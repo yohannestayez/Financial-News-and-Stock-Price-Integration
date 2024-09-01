@@ -4,7 +4,7 @@ The project involves analyzing a large corpus of financial news data to discover
 
 ### Notebooks:
 1. Task1: Descriptive Statics, Text analysis (Sentiment analysis & Topic Modeling), Time Series Analysis, Publisher Analysis
-2. Task2: Quantitative analysis using pynance and TA-Lib
+2. Task2: Quantitative analysis using TA-Lib and Portfolio analysis
 
 ## Project Structure
 
@@ -24,6 +24,7 @@ The repository is structured as follows:
 │   ├── __init__.py
 │   ├── Analysis1.ipynb
 │   ├── Analysis2.ipynb
+│   ├── Analysis3.ipynb
 │   └── README.md
 ├── tests/
 │   └── __init__.py
